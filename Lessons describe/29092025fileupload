@@ -1,0 +1,55 @@
+I recently started working with GitHub and created my first repository for my profile.
+In this repository I added a README.md file, where I described my background, skills, and future IT goals.
+
+I practiced different ways to work with GitHub:
+
+First, I created and uploaded files directly on the GitHub website.
+
+Second, I used Git Bash to clone the repository to my computer. Then I added my README.md file, made a commit with a message, and pushed it back to GitHub.
+
+I also learned how to open the Windows Command Line using Win + R → cmd. With the command line I can move between folders and run git commands.
+
+This experience helped me understand how version control works in real life. Now I know the basic steps: clone → add → commit → push.
+It was my first practice, but it gave me more confidence to continue learning Git, GitHub, and programming.
+
+
+
+Repository (repo)
+A storage for your project on GitHub.
+👉 Used on: GitHub website, Git Bash
+
+Clone
+Copy a remote repository from GitHub to your local computer.                   (git clone)
+
+Add
+Put changed or new files into the staging area before saving them.             (git add README.md)
+
+Commit
+Save the current state of your project with a message.                         (git commit -m "message")
+
+Push
+Send your commits from the local repository to GitHub.                         (git push origin main)
+
+Pull
+Get updates from GitHub to your computer.                                      (git pull)
+
+Branch
+A parallel version of your project. The main one is usually called main or master.
+👉 Used on: GitHub website, Git Bash
+
+README.md
+A Markdown file that describes your project or profile. It is shown on the front page of your repository.
+👉 Used on: GitHub website, Git Bash, any text editor (VS Code, Notepad)
+
+Markdown (.md)
+A simple format for text with headers, links, lists, and code blocks.
+👉 Used on: README.md file (VS Code, GitHub website)
+
+Command Line (CMD)
+A Windows program to type and run commands. Open with Win + R → cmd.
+👉 Used on: Windows CMD
+
+Git Bash
+A terminal program for running Git commands on Windows.
+👉 Used on: Git Bash
+
