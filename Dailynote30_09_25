@@ -1,0 +1,38 @@
+### Today 1: My First Steps in Python
+
+Today I copied and rewrote a simple **calculator program** in Python.  
+The program can add, subtract, multiply, and divide two numbers.  
+I did not write it fully on my own, but rewriting helped me to see the basic structure of Python code.  
+I started to understand new things such as:
+- `=` (assignment)
+- `==` (comparison)
+- `if / elif / else` (conditions)
+- `input()` (user input)
+- `print()` (showing the result)
+
+It is still difficult for me, but I want to continue step by step.
+
+---
+
+### Learning GitHub and VS Code
+
+I also explored some basic functions in **GitHub** and **Visual Studio Code (VS Code)**:
+
+**GitHub**
+- Create a new repository  
+- Rename a repository  
+- Add a file  
+- Edit `README.md`  
+- Push code from local to GitHub  
+
+**VS Code**
+- Open a folder with my projects  
+- Create a new Python file (`.py`)  
+- Run the code inside the terminal  
+- Install the Python extension  
+- Use syntax highlighting and auto-complete  
+
+---
+
+This is only the beginning.  
+Next, I want to practice more small scripts and understand them better before I try to write code fully on my own.
