@@ -1,3 +1,15 @@
+Yesterday I installed all the programs that I need for my IT studies.
+First, I set up Visual Studio Code as my main code editor.
+Then I installed Python with pip, so I can run and test my scripts.
+I also added Git for Windows, which I will use together with GitHub.
+After that, I installed Node.js for future web projects and extensions.
+I downloaded Google Chrome for practicing with DevTools.
+For API testing, I installed Postman.
+
+Finally, I added some extra tools: 7-Zip for archives and Notepad++ as a simple text editor.
+
+Now my computer is ready for learning Python, testing, and web development.
+
 Today I started working with GitHub. It may look like a small step, but for me it is important. 
 I created my first repository, added a README file, and practiced basic commands with Git Bash. 
 Now I understand better how version control works, and I feel motivated to continue learning.
