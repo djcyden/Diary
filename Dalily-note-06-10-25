@@ -1,0 +1,38 @@
+📝 English Diary — Week 1 (SQL Practice & Tools Setup)
+
+Date: October 2025
+Topic: SQL and environment setup for QA / Backend learning
+
+This week I focused on understanding how databases work and how to connect them inside VS Code.
+I installed the main tools: VS Code, Python, Git, and SQLTools / SQLite driver.
+After several attempts, I successfully connected my first database file — products.db — and learned how to run basic SQL queries.
+
+At the beginning, I had problems with the Run button inside VS Code — it was not visible or working correctly.
+After many tests and reinstallations, I decided to ignore the button and switch to a simpler workflow using the SQLite (alexcvzz) extension and the fixed “▶ Run” icon.
+Now I can execute queries without any keyboard shortcuts.
+
+I created my first real SQL tables:
+
+products – with fields id, name, category, price
+
+suppliers – with fields id, name
+
+and a many-to-many relation product_suppliers
+
+Then I learned how to:
+
+select data (SELECT * FROM products;)
+
+filter results (WHERE category = 'Fruit')
+
+sort and group data (ORDER BY, GROUP BY)
+
+join tables (JOIN suppliers ON suppliers.id = product_suppliers.supplier_id)
+
+update or delete rows (UPDATE, DELETE)
+
+and create a simple view (CREATE VIEW v_expensive).
+
+Even though I didn’t write every command from memory yet, I understand what each part of the SQL logic means and why it’s used in testing and backend work.
+
+Next, I will continue with Python, Postman, and Docker, but now I already understand how data is stored and retrieved from a database.
